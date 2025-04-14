@@ -11,7 +11,7 @@ export default function Footer() {
         <p>
           {t("footerText")} &copy; {new Date().getFullYear()}
         </p>
-        <a href="https://github/oyatillo071">Oyatillo</a>
+        <a href="https://github.com/oyatillo071">Oyatillo</a>
       </div>
     </footer>
   );
